@@ -2,6 +2,7 @@
 El proyecto trata de un variador de frecuencia trifasico controlado. Resulta que el proyecto tiene un(os) fallo(s) en el diseño de la placa y es nuestro trabajo encontrarlos y solucionarlos. 
 
 Este es el estado actual del proyecto: 
+
 El esquematico:  
 ![3PhaseYoutube](https://github.com/user-attachments/assets/01d6a948-857c-49c4-a2fb-994fe372c709)
 (Esquematico por Kash Patel)
