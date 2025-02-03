@@ -13,7 +13,7 @@ PCB (PCB de Kash Patel):
 Codigo (de Kash Patel): 
 [Arduino_Uno3Phase Code.txt](https://github.com/user-attachments/files/18646984/Arduino_Uno3Phase.Code.txt) 
 
-PWM (en Arduino IDE:  
+PWM (en Arduino IDE):  
 //----------------------------------------------------------------------------------------------
 // 3 - Phase Motor Driver using Arduino Mega
 // Look-up tables used to create the Sine Waves
