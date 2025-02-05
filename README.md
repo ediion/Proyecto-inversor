@@ -1,7 +1,7 @@
 # Proyecto-inversor 
 El proyecto trata de un variador de frecuencia trifasico controlado. Resulta que el proyecto tiene un(os) fallo(s) en el diseño de la placa y es nuestro trabajo encontrarlos y solucionarlos.  
 
-El fallo resulta ser que hay tres componentes (C2,C9,C11) que van a GND1 cuando deberian de ir hacia el +28v
+El fallo resulta ser que hay tres componentes (C2,C9,C11) que van a GND1 cuando deberian de ir hacia el +28v.
 
 Este es el estado actual del proyecto: 
 
@@ -17,3 +17,6 @@ Codigo (de Kash Patel):
 
 PWM (en Arduino IDE):  
 [Codigo PWM Reto Kash.txt](https://github.com/user-attachments/files/18647038/Codigo.PWM.Reto.Kash.txt) 
+
+Primero que todo, aislamos los pads que estaban conectadas a GND1 con ayuda de la Dremel. 
+![20250204_204302](https://github.com/user-attachments/assets/b3d4c1ff-2179-448b-9d6f-60744d71c2ab)
