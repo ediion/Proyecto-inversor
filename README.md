@@ -10,8 +10,9 @@ El esquematico (Esquematico de Kash Patel):
 
 PCB (PCB de Kash Patel): 
 ![20250203_191114](https://github.com/user-attachments/assets/f7d3b614-60ef-4121-8ff1-44fc49a26e56)
-![20250203_191122](https://github.com/user-attachments/assets/6d6c1b97-1cc4-4798-af87-f58aee104e98)
+![Picsart_25-02-05_15-24-44-828](https://github.com/user-attachments/assets/f3f4bc45-114d-47c1-85d3-6015cc9435ab)
 
+(Lo circulado en rojo son los Pads que estan conectadas a GND1
 Codigo (de Kash Patel): 
 [Arduino_Uno3Phase Code.txt](https://github.com/user-attachments/files/18646984/Arduino_Uno3Phase.Code.txt) 
 
