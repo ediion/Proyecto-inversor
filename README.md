@@ -1,4 +1,4 @@
-# Proyecto-variador 
+# Proyecto-inversor 
 El proyecto trata de un variador de frecuencia trifasico controlado. Resulta que el proyecto tiene un(os) fallo(s) en el diseño de la placa y es nuestro trabajo encontrarlos y solucionarlos.  
 
 El fallo resulta ser que hay tres componentes (C2,C9,C11) que van a GND1 cuando deberian de ir hacia el +28v.
