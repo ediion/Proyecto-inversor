@@ -19,5 +19,14 @@ Codigo (de Kash Patel):
 PWM (en Arduino IDE):  
 [Codigo PWM Reto Kash.txt](https://github.com/user-attachments/files/18647038/Codigo.PWM.Reto.Kash.txt) 
 
-Primero que todo, aislamos los pads que estaban conectadas a GND1 con ayuda de la Dremel. 
-![20250204_204302](https://github.com/user-attachments/assets/b3d4c1ff-2179-448b-9d6f-60744d71c2ab)
+Primero que todo, aislamos los pads que estaban conectadas a GND1 con ayuda de la Dremel.  
+![20250204_204302](https://github.com/user-attachments/assets/b3d4c1ff-2179-448b-9d6f-60744d71c2ab) 
+
+Soldamos los componentes a sus respectivos lugares. 
+![20250210_201819](https://github.com/user-attachments/assets/b7e79f61-bb33-4d90-9aee-94435e5708a1)
+
+Y unimos los componentes C2 y C11 por medio de un cable. 
+![20250210_201830](https://github.com/user-attachments/assets/7f60b045-2e46-4c21-a286-933620229d84) 
+
+Tambien cambiamos el codigo para que funcionase por medio de un ESP32: 
+
