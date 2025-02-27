@@ -30,4 +30,5 @@ Y unimos los componentes C2 y C11 por medio de un cable.
 
 Tambien cambiamos el codigo para que funcionase por medio de un ESP32: 
 
-V1: [Codigo Reto V1.txt](https://github.com/user-attachments/files/18843814/Codigo.Reto.txt)
+V1: [Codigo Reto V1.txt](https://github.com/user-attachments/files/18843814/Codigo.Reto.txt) 
+V2: [RETO4.txt](https://github.com/user-attachments/files/19014334/RETO4.txt)
